@@ -10,7 +10,7 @@ const SocialLinks = () => {
               LinkedIn <FaLinkedin size={30} />
             </>
           ),
-          href: "https://linkedin.com",
+          href: "https://www.linkedin.com/in/justo-mateos-161ab722b/",
           style: "rounded-tr-md",
         },
         {
@@ -20,7 +20,7 @@ const SocialLinks = () => {
               GitHub <FaGithub size={30} />
             </>
           ),
-          href: "https://github.com/theyashpatel",
+          href: "https://github.com/JustoMateos21",
         },
         {
           id: 3,
@@ -29,7 +29,7 @@ const SocialLinks = () => {
               Mail <BsMailbox size={30} />
             </>
           ),
-          href: "mailto:foo@gmail.com",
+          href: "mailto:justomateos8@gmail.com",
         },
         {
           id: 4,
