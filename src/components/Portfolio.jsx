@@ -94,6 +94,7 @@ const popUpHandler= (title, description) =>{
                 <a
                 href={demoHref}
                 target='_blank'
+                rel="noreferrer"
                   className="w-1/2 px-6 py-3 m-4
             hover:scale-105 duration-200"
                 >
@@ -111,6 +112,7 @@ const popUpHandler= (title, description) =>{
             hover:scale-105 duration-200"
             href={hrefCode}
             target='_blank'
+            rel="noreferrer"
 
                 >
                   Code
