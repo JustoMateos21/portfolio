@@ -1,5 +1,4 @@
 import React from 'react'
-import NavBar from './NavBar'
 import perfil from '../assets/perfil.png'
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md'
 import {Link} from "react-scroll"  

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import {FaBars,  FaTimes} from "react-icons/fa"
 import {Link} from "react-scroll"
 
+
 const NavBar = () => {
 const [nav, setNav] = useState(false)
   const links=[
@@ -29,7 +30,7 @@ const [nav, setNav] = useState(false)
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white fixed bg-black">
       <div>
-        <h1 className="text-5xl ml-2">Justo</h1>
+        <h1 className="text-5xl ml-2">Jus70</h1>
       </div>
 
       <ul className="hidden md:flex">
