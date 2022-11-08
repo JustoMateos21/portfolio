@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const About = () => {
   return (
@@ -16,23 +16,35 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          I'm a Full-Stack developer located in Argetina. I have a serious
-          passion for Front-End development and design.
+          I'm a front-end web developer with over a year of experience. Over the
+          last few years, I've worked mainly on personal and startup projects.
         </p>
         <br />
         <p className="text-xl">
-          I am a well organized and insistent person, if I have a problem, I
-          don't stop until I solve it. I am a fanatic of Trail Running and I
-          dedicate a big part of my life to it. I also like to learn and talk
-          with other people about our passions.
+          I'm familiar with the use of frameworks, but I create sites also using
+          Javascript, html5 and css3.
         </p>
         <br />
         <p className="text-xl">
-        I have a great entrepreneur spirit
+          Among the projects, the one that stands out the most is "Decidite", a
+          startup I created with the goal of helping people who are finishing
+          high school to choose a college career. In it I managed to form a team
+          of 20 psychologists and reach more than 400 downloads on google play.
+        </p>
+        <br />
+        <p className="text-xl">
+          I am passionate about design and I am very detailed, I do not stop
+          until I get the results I expect in each project.
+        </p>
+        <br />
+        <p className="text-xl">
+          To keep myself updated, I take courses in different programming
+          languages and watch tutorials that help me write cleaner and optimized
+          code.{" "}
         </p>
       </div>
     </div>
   );
-}
+};
 
 export default About;
